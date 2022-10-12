@@ -3,7 +3,7 @@ Here is some of the work I completed throughout my Spring 2022 data journalism c
 
 
 
-For my work on looking at the **[billboard_top_100](https://htmlpreview.github.io/?https://github.com/ecsantac/data_journalism_spr22/blob/main/billboard_top_100/01-top100.html)**
+For my work on analyzing the **[billboard_top_100](https://htmlpreview.github.io/?https://github.com/ecsantac/data_journalism_spr22/blob/main/billboard_top_100/01-top100.html)**
 
 Here is a link to part one: https://htmlpreview.github.io/?https://github.com/ecsantac/data_journalism_spr22/blob/main/billboard_top_100/01-top100.html
 
