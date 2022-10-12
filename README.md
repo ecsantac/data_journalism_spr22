@@ -9,3 +9,4 @@ Here is a link to part two: https://htmlpreview.github.io/?https://github.com/ec
 
 For my work on replicating sentences from the Washington Post: https://ecsantac.github.io/class-test/santacruz_elena_final.html
 
+For my work on explaining how to use the string detect method in R: 
